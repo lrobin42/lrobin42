@@ -1,13 +1,20 @@
 
-# Hi 👋 I'm Lemuel! 
 
-**Data Scientist/Data Analyst**
+<div align="center">
+  <center><h1>Hi, I'm Lemuel! </h1></center>
+</div>
 
-- 👀 I’m interested in LLMs, optimization models, and linguistics
-- 🌱 I’m currently learning machine learning algorithms
-- 😄 Pronouns: he/him
+<div align="center">
+  <center><h5>Industrial and Systems Engineer ┆ Risk Analyst <br> Translator ┆ Turing College Data Science & AI Student</br> </h5></center>
+</div>
 
-### 🛠️: Language and Tools: 
+#### About me:
+▶ Interested in data science, optimization, statistical modeling, and linguistics <br>
+▶ Currently diving into the world of machine learning <br>
+▶ Let's connect: [LinkedIn](https://www.linkedin.com/in/lrob62/) <br>
+▶ Pronouns: he/him <br>
+
+#### Language and Tools: 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
