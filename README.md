@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <center><h5>Industrial and Systems Engineer ┆ Risk Analyst <br> Translator ┆ Turing College Data Science & AI Student</br> </h5></center>
+  <center><h5>Systems Engineer ┆ Risk Analyst <br> Translator ┆ Turing College Data Science & AI Student</br> </h5></center>
 </div>
 
 #### About me:
