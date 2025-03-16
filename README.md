@@ -9,8 +9,7 @@
 </div>
 
 #### About me:
-▶ Interested in data science, optimization, statistical modeling, and linguistics <br>
-▶ Currently diving into the world of machine learning <br>
+▶ Interested in data science, optimization, cryptography, and low-level languages <br>
 ▶ Let's connect: [LinkedIn](https://www.linkedin.com/in/lrob62/) <br>
 ▶ Pronouns: he/him <br>
 
