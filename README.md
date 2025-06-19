@@ -1,7 +1,8 @@
 
 
 <div align="center">
-  <center><h1>Hi, I'm Lemuel! </h1></center>
+
+  <center><h1>Hi! </h1></center>
 </div>
 
 <div align="center">
