@@ -10,7 +10,7 @@
 </div>
 
 #### About me:
-▶ Interested in data science, cryptography, and low-level languages <br>
+▶ Interested in low-level languages, data science, and cryptography  <br>
 
 ---
 
