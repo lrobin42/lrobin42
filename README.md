@@ -12,6 +12,8 @@
 #### About me:
 ▶ Interested in low-level languages, data science, and cryptography  <br>
 
+I program in Python and Rust, primarily using the former for Data Science and Machine Learning workflows, with Rust as a general purpose language for personal automation and tool development.
+
 ---
 
 ### :fire: My Stats :
