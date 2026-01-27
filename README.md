@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <center><h5>Systems Engineer ┆ Risk Analyst ┆ Translator </h5></center>
+  <center><h5>Systems Engineer ┆ Technical Investigator ┆ Translator </h5></center>
 </div>
 
 #### About me:
